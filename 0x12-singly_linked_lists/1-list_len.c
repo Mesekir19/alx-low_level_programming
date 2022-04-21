@@ -8,10 +8,7 @@
 size_t list_len(const list_t *h)
 {
 	size_t nelem;
-<<<<<<< HEAD
 
-=======
->>>>>>> 873b5e048b9c8e4743fa63d98cb2c3d81f919a19
 	nelem = 0;
 	while (h != NULL)
 	{
